@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Ghazal-Portfolio.io/static/css/main.cd919ada.css",
+    "main.js": "/Ghazal-Portfolio.io/static/js/main.3cb3b720.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Ghazal-Portfolio.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Ghazal-Portfolio.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Give&Thrive.png": "/Ghazal-Portfolio.io/static/media/Give&Thrive.e273ff89b6b59678b9b1.png",
+    "static/media/coffeeshop.png": "/Ghazal-Portfolio.io/static/media/coffeeshop.46a6367c50915eeb4a32.png",
+    "static/media/flat-design-young-girl-programmer-working.png": "/Ghazal-Portfolio.io/static/media/flat-design-young-girl-programmer-working.02ca1cbeee8389818522.png",
+    "static/media/freepik-export-202408241345343veP.png": "/Ghazal-Portfolio.io/static/media/freepik-export-202408241345343veP.da9f39f1b0917465b0fc.png",
+    "static/media/investmentCalculator.png": "/Ghazal-Portfolio.io/static/media/investmentCalculator.ead8e90e66f3bed9c348.png",
+    "static/media/animatedsquares.png": "/Ghazal-Portfolio.io/static/media/animatedsquares.3a45ba43536ecd61c448.png",
+    "static/media/emotion.png": "/Ghazal-Portfolio.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Ghazal-Portfolio.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Ghazal resume.pdf": "/Ghazal-Portfolio.io/static/media/Ghazal resume.0f2a9d4c33b11e2019b0.pdf",
+    "static/media/about.png": "/Ghazal-Portfolio.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Ghazal-Portfolio.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Ghazal-Portfolio.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Ghazal-Portfolio.io/index.html",
+    "main.cd919ada.css.map": "/Ghazal-Portfolio.io/static/css/main.cd919ada.css.map",
+    "main.3cb3b720.js.map": "/Ghazal-Portfolio.io/static/js/main.3cb3b720.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Ghazal-Portfolio.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Ghazal-Portfolio.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd919ada.css",
+    "static/js/main.3cb3b720.js"
+  ]
+}
